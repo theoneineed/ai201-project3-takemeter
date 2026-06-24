@@ -83,7 +83,7 @@ To capture the intent behind the discourse, I defined three mutually exclusive l
 | True \ Predicted | seekAdvice | provideValue | validateOneself |
 |------------------|------------|--------------|-----------------|
 | **seekAdvice** | 12 | 0 | 1 |
-| **provideValue** | 6 | 0 | 1 |
+| **provideValue** | 6 | 0 | 0 |
 | **validateOneself**| 5 | 0 | 7 |
 
 ![Confusion Matrix](./confusionMatrix.png)
