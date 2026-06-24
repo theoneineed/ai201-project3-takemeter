@@ -86,6 +86,8 @@ To capture the intent behind the discourse, I defined three mutually exclusive l
 | **provideValue** | 6 | 0 | 1 |
 | **validateOneself**| 5 | 0 | 7 |
 
+![Confusion Matrix](./confusionMatrix.png)
+
 **Error Analysis (3 Wrong Predictions Analyzed):**
 
 1. **Text:** Withdrawal rates by expected years in retirement and portfolio size.: finally found a well researched answer to the above...
